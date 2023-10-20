@@ -1,0 +1,11 @@
+.square {
+    width: 400px;
+    height: 400px;
+    /* kolor tła ustawiam kontrolnie - dla sprawdzenia rozmiaru pola div */
+    background-color: azure;
+    background-image: url(/img/halloween.jpg);
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+
